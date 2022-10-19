@@ -1,1 +1,1 @@
-Hi there👋
+Let's make SAT solving better together!👋

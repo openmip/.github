@@ -1,1 +1,1 @@
-Let's solver MIP together!👋
+Let's solve MIP together!👋

@@ -1,1 +1,1 @@
-Let's make SAT solving better together!👋
+Let's solver MIP together!👋
